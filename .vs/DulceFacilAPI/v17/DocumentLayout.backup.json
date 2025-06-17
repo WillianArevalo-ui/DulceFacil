@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\DulceFacil\\DulceFacilAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD91451-858C-4C7D-93EE-2DDE5229267B}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\c#\\dulcefacil\\dulcefacilapi\\dulcefacil.dominio.modelo\\abstracciones\\iubicacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD91451-858C-4C7D-93EE-2DDE5229267B}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\iubicacionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD91451-858C-4C7D-93EE-2DDE5229267B}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|c:\\c#\\dulcefacil\\dulcefacilapi\\dulcefacil.dominio.modelo\\abstracciones\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD91451-858C-4C7D-93EE-2DDE5229267B}|DulceFacil.Dominio.Modelo\\DulceFacil.Dominio.Modelo.csproj|solutionrelative:dulcefacil.dominio.modelo\\abstracciones\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUbicacionRepositorio.cs",
+              "DocumentMoniker": "C:\\C#\\DulceFacil\\DulceFacilAPI\\DulceFacil.Dominio.Modelo\\Abstracciones\\IUbicacionRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IUbicacionRepositorio.cs",
+              "ToolTip": "C:\\C#\\DulceFacil\\DulceFacilAPI\\DulceFacil.Dominio.Modelo\\Abstracciones\\IUbicacionRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IUbicacionRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:40:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\C#\\DulceFacil\\DulceFacilAPI\\DulceFacil.Dominio.Modelo\\Abstracciones\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "DulceFacil.Dominio.Modelo\\Abstracciones\\IClienteRepositorio.cs",
+              "ToolTip": "C:\\C#\\DulceFacil\\DulceFacilAPI\\DulceFacil.Dominio.Modelo\\Abstracciones\\IClienteRepositorio.cs",
+              "RelativeToolTip": "DulceFacil.Dominio.Modelo\\Abstracciones\\IClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:17:39.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
